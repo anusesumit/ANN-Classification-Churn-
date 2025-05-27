@@ -1,4 +1,4 @@
-tensorflow==2.16.1
+git+https://github.com/tensorflow/tensorflow.git
 pandas 
 numpy 
 scikit-learn
